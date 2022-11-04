@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: White
+Favorite food: Shawarma
+Favorite musician/band: Wael Kfoury
+Favorite movie: Hocus Pocus 2
+Requested grade in the course: 85+
